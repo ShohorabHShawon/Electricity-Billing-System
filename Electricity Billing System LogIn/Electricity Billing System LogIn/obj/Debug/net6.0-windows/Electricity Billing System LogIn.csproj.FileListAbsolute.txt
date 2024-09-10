@@ -1,0 +1,17 @@
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\Electricity Billing System LogIn.exe
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\Electricity Billing System LogIn.deps.json
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\Electricity Billing System LogIn.runtimeconfig.json
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\Electricity Billing System LogIn.dll
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\ref\Electricity Billing System LogIn.dll
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\bin\Debug\net6.0-windows\Electricity Billing System LogIn.pdb
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.csproj.AssemblyReference.cache
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity_Billing_System_LogIn.fromRegister.resources
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.csproj.GenerateResource.cache
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.GeneratedMSBuildEditorConfig.editorconfig
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.AssemblyInfoInputs.cache
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.AssemblyInfo.cs
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.csproj.CoreCompileInputs.cache
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.dll
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\ref\Electricity Billing System LogIn.dll
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.pdb
+E:\Codes\C#\Electricity Billing System LogIn\Electricity Billing System LogIn\obj\Debug\net6.0-windows\Electricity Billing System LogIn.genruntimeconfig.cache
